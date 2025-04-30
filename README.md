@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi
+#I am always triyng to find and make wesites to unblock things and to play games on
+I am in middle school, so the things I post might not be as good as others, but I am still trying my best.
+
+
+
+I am also working with some of my friends to make websites.
 
 <!--
 **MtnAndew/MtnAndew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
